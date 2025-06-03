@@ -1,7 +1,12 @@
+> [!NOTE]
+> This is Moo-dy's Backend repository only. <br>For a more complete ReadMe and info on the project, check out the 
+[Moo-dy's Front-end GitHub Repository](https://github.com/jeanjusten/Moo-dy_Spotify_FrontEnd).
+
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Node](https://img.shields.io/badge/node.js-%5E18.x-green)
 ![2025-06-0216-09-51-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c2c008f2-8d5d-460f-a934-6277bbc88f7f)
+
 <!--Title Image-->
 # :computer: Moo-dy: Listen to a Song based on your Mood - Website 
   <p>
@@ -31,8 +36,7 @@
 ## :large_orange_diamond: Introduction
 ### :arrow_forward: Description
 Moo-dy is a website made to study the integration between backend and frontend, and working with API calls. You choose a mood available, 
-a API call is made to Spotify and then you receive a song recommendation based on the mood you choose. This is the Backend repo. For a more complete ReadMe and info, check out the 
-[Moo-dy's Front-end GitHub Repository](https://github.com/jeanjusten/Moo-dy_Spotify_FrontEnd).
+a API call is made to Spotify and then you receive a song recommendation based on the mood you choose.
 
 <!--Tools Used-->
 ## :large_orange_diamond: Tools and Technologies
